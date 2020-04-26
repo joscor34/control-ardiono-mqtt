@@ -25,7 +25,7 @@ Puede que la consola te arroje el siguiente error:
 
 > UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
 
-para solucionarlo lo unico que debes hacer ir al:
+para solucionarlo lo unico que debes hacer es ir al:
 
 [arduinoControl.js](https://github.com/joscor34/control-ardiono-mqtt/blob/master/arduinoControl.js)
 
