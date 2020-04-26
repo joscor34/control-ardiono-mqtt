@@ -6,7 +6,8 @@ Este proyecto es una simple conexión entre el servicio MQTT y el puerto serial 
 
 ## Setup
 
-Puedes clonar este repositorio, para instalar las dependencias necesarias necesitas hacer lo siguinte:
+Puedes clonar este repositorio.
+Para instalar las dependencias necesarias necesitas hacer lo siguinte:
 
 ``npm insall``
 
