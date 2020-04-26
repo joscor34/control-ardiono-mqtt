@@ -1,0 +1,25 @@
+{
+  "name": "arduinomqtt",
+  "version": "1.0.0",
+  "description": "Este es un control basico de arduino con la libreria mqtt",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joscor34/control-ardiono-mqtt.git"
+  },
+  "author": "Jose E. Esteva Cordova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joscor34/control-ardiono-mqtt/issues"
+  },
+  "homepage": "https://github.com/joscor34/control-ardiono-mqtt#readme",
+  "dependencies": {
+    "mqtt": "^3.0.0",
+    "nodemon": "^2.0.3",
+    "serialport": "^8.0.7"
+  }
+}
