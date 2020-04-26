@@ -32,4 +32,4 @@ y modificar la linea:
 
 ``const port = new SerialPort("/dev/ttyACM1", { baudRate: 9600 })``
 
-cambialo por el puerto en el que esté tu arduino.
+cambia ``/dev/ttyACM1`` por el puerto en el que esté tu arduino.
