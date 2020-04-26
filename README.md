@@ -26,10 +26,10 @@ Puede que la consola te arroje el siguiente error:
 
 para solucionarlo lo unico que debes hacer ir al:
 
-[link](https://www.example.com/my%20great%20page)
+[arduinoControl.js](https://github.com/joscor34/control-ardiono-mqtt/blob/master/arduinoControl.js)
 
 y modificar la linea:
 
 ``const port = new SerialPort("/dev/ttyACM1", { baudRate: 9600 })``
 
-cambialo por el puerto en el que este tu arduino.
+cambialo por el puerto en el que esté tu arduino.
